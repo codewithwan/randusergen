@@ -41,7 +41,7 @@ Install my-project with npm
 Basic Usage :
 
 ```python
-from randomuser import DataGenerator, FileWriter
+from usergen.randomuser import DataGenerator, FileWriter
 
 # Membuat objek DataGenerator
 data_generator = DataGenerator()
